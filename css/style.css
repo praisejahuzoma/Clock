@@ -261,6 +261,9 @@ body.dark-theme{
     .clock_logo{
         margin-bottom: 3rem;
     }
+    .copyRight{
+        padding-bottom: 3rem;
+    }
 }
 .copyRight{
     text-align: center;
