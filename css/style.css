@@ -269,7 +269,9 @@ body.dark-theme{
 .copyRight{
     text-align: center;
     font-size: 12px;
-    margin-top: -20px;
+    margin-top: 8px;
     color: rgb(175, 61, 175);
+    margin-bottom: 3rem;
+    padding-bottom: 3rem;
 
 }
