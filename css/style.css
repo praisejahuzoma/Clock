@@ -210,6 +210,7 @@ body.dark-theme{
     font-weight: var(--font-medium);
     color: var(--text-color-light);
     transition: .3s;
+    margin-top: -30px;
 }
 
 .clock_logo:hover{
@@ -262,7 +263,7 @@ body.dark-theme{
         margin-bottom: 3rem;
     }
     .copyRight{
-        padding-bottom: 3rem;
+      
     }
 }
 .copyRight{
